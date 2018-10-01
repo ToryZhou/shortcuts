@@ -15,8 +15,9 @@ Practice the vim is really helpful
 ****
 ## 目录
 * [Idea](#Idea)
+* [Ubuntu](#Ubuntu)
 
-## Idea
+### Idea
 windows版 http://idea.lanyus.com/ 里面获取注册码，很长的注册码，在idea第二个单选框内贴入注册码即可，会提示registered by lan yu.  
 ctrl + n 查看java文件  
 ctrl + shift + n 查看非java文件  
@@ -45,7 +46,7 @@ alt+insert 在选中某包是按这个建，创建包和创建类快捷键
 alt+ ←→ 切换工作区文件  
 alt+w 打开windows 可以选择项目  
 
-# Ubuntu
+### Ubuntu
 ctrl + alt + t 调出新窗口terminal  
 ctrl + shift + t 新打开一个tab的terminal  
 alt + 数字键 切换terminal的tab  
