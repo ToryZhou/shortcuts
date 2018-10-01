@@ -198,6 +198,9 @@ java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -p
 查看docker运行状态的方法:sudo service docker status  
 打开/关闭/重启docker服务：sudo service docker start/stop/restart  
 
+
+
+注意Markdown 锚点里面必须是小写
 ---------------------
 
 本文来自 ToryChow 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/changningbuddha/article/details/76167929?utm_source=copy 
