@@ -16,6 +16,14 @@ Practice the vim is really helpful
 ## 目录
 * [Idea](#idea)
 * [Ubuntu](#ubuntu)
+* [Windows](#windows)
+* [Chrome](#chrome)
+* [vim](#vim)
+* [tmux](#tmux)
+* [CSDN](#csdn)
+* [Maven](#maven)
+* [Docker](#docker)
+
 
 ### Idea
 -----------
@@ -95,7 +103,8 @@ grep -rn 920b8f5ffa8a477282b2c7bf9e530354 app.* 搜索app开头的文件里面�
 grep -rn role1 app* | grep 7199c2a1f7274518a3b4c68aa0ca63c3  
 sudo hdparm -i /dev/sda  查看硬盘型号  
 
-## Windows
+### Windows
+-----------
 system + e 打开文件夹  
 alt + space 打开窗口管理  
 system + r 调出运行命令行  
@@ -109,7 +118,8 @@ services.msc 系统服务
 calc 计算器  
  
 
-## Chrome
+### Chrome
+-----------
 ctrl + shift + b 打开关闭收藏目录  
 ctrl + t 打开新标签页  
 ctrl + n 打开新窗口  
@@ -138,7 +148,8 @@ Ctrl+-，或者按住 Ctrl 键并向下滚动鼠标滚轮 缩小网页上的所�
 Ctrl+0 将网页上的所有内容都恢复到正常大小  
 Ctrl + Shift +N 打开安全模式  
 
-## vim
+### vim
+-----------
 vimtutor   
 i  插入  
 o 下一行插入  
@@ -165,21 +176,25 @@ X    删除光标前的字符 ("dh" 的缩写)
 D    从当前位置删除到行尾 ("d$" 的缩写)  
 shift+g 到文件最后一行  
 
-## tmux
+### tmux
+-----------
 tmux  
 ctrl+b 进入命令模式后，%左右分屏，“上下分屏，方向键选择屏幕，d退出会话  
 tmux new -s redis 新建会话  
 tmux a -t redis 进入会话  
 tmux ls 列出所有会话  
 
-## CSDN
+### CSDN
+-----------
 shift + enter 换行不分段   
 
-## Maven
+### Maven
+-----------
 mvn clean install -Dmaven.test.skip=true  通过这样的方式可以跑到checkstyle，直接点击install 按钮 跑不了checkstyle  
 java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -port 10500  dynamodb  
 
-## Docker
+### Docker
+-----------
 查看docker运行状态的方法:sudo service docker status  
 打开/关闭/重启docker服务：sudo service docker start/stop/restart  
 
