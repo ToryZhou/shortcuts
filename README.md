@@ -5,6 +5,17 @@ Practice the vim is really helpful
 
 这是对大量快捷键优化筛选出来，实用好用的快捷键
 
+****
+	
+|Author|Tong|
+|---|---
+|E-mail|522617505@qq.com
+
+
+****
+## 目录
+* [Idea](##Idea)
+
 ## Idea
 windows版 http://idea.lanyus.com/ 里面获取注册码，很长的注册码，在idea第二个单选框内贴入注册码即可，会提示registered by lan yu.  
 ctrl + n 查看java文件  
