@@ -3,6 +3,8 @@ This is the  staple and useful shortcuts for an engineer
 
 Practice the vim is really helpful
 
+这是对大量快捷键优化筛选出来，实用好用的快捷键
+
 # Idea
 
 windows版 http://idea.lanyus.com/ 里面获取注册码，很长的注册码，在idea第二个单选框内贴入注册码即可，会提示registered by lan yu.
