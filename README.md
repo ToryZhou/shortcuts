@@ -14,8 +14,8 @@ Practice the vim is really helpful
 
 ****
 ## 目录
-* [Idea](#Idea)
-* [Ubuntu](#Ubuntu)
+* [Idea](#idea)
+* [Ubuntu](#ubuntu)
 
 ### Idea
 -----------
