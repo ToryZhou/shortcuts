@@ -48,6 +48,7 @@ operator [number] motion 操作+次数+操作对象
 |l|右字符
 
 i 当前光标插入  
+a 光标后面插入  
 o 下一行插入  
 :q! 不保存退出  
 :wq 保存退出  
