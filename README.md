@@ -166,7 +166,9 @@ system + x + uu 关机
 shutdown -s -t 2555 2555秒后关机  
 services.msc 系统服务  
 calc 计算器  
- 
+ctrl+system+ ↑  最大化窗口  
+ctrl+system+ ↓  缩小窗口  
+ 
 
 ### Chrome
 -----------
