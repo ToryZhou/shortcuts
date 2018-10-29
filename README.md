@@ -74,7 +74,8 @@ shift+g 到文件最后一行
 ctrl+g 显示行信息  
 % 找对应的括号  
 viw 选中光标所在单词  
-shift+v 选中光标所在行
+shift+v 选中光标所在行  
+grep -rn "hello,world!" * 搜索文本所在文件
 
 ### Idea
 -----------
