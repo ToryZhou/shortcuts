@@ -156,6 +156,7 @@ find . -type f   -exec  sed -i 's/\xEF\xBB\xBF//' {} \;
 grep -rn 920b8f5ffa8a477282b2c7bf9e530354 app.* 搜索app开头的文件里面的字符串   
 grep -rn role1 app* | grep 7199c2a1f7274518a3b4c68aa0ca63c3  
 sudo hdparm -i /dev/sda  查看硬盘型号  
+echo $LANG  查看系统字符编码  
 
 ### Windows
 -----------
