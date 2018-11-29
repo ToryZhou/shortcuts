@@ -158,6 +158,8 @@ grep -rn role1 app* | grep 7199c2a1f7274518a3b4c68aa0ca63c3
 sudo hdparm -i /dev/sda  查看硬盘型号  
 echo $LANG  查看系统字符编码  
 xz -d ***.tar.xz 解压.xz文件  
+tar -xvf  ***.tar 解压.tar文件  
+tar -zxvf Python-3.6.1.tgz  解压.tgz文件  
 
 ### Windows
 -----------
