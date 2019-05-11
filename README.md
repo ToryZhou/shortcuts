@@ -23,6 +23,7 @@ Practice the vim is really helpful
 * [CSDN](#csdn)
 * [Maven](#maven)
 * [Docker](#docker)
+* [Js](#Js)
 
 ### vim
 -----------
@@ -233,7 +234,12 @@ java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -p
 查看docker运行状态的方法:sudo service docker status  
 打开/关闭/重启docker服务：sudo service docker start/stop/restart  
 
-
+### Js
+----------
+console.log(document.getElementById("password").value) 获取网页密码  
+new Date(1557575716243)获取时间戳转换  
+new Date().getTime()获取当前Unix时间戳  
+decodeURI('%5D%2F')有的解码不了 
 
 注意Markdown 锚点里面必须是小写
 ---------------------
