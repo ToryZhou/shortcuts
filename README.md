@@ -164,6 +164,7 @@ xz -d ***.tar.xz 解压.xz文件
 tar -xvf  ***.tar 解压.tar文件  
 tar -zxvf Python-3.6.1.tgz  解压.tgz文件  
 update-alternatives --config python  切换版本
+du -h ./ | sort -n -r | head -n 10 看文件大小
 
 ### Windows
 -----------
