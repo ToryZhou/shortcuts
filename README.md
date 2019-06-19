@@ -165,7 +165,8 @@ tar -xvf  ***.tar 解压.tar文件
 tar -zxvf Python-3.6.1.tgz  解压.tgz文件  
 update-alternatives --config python  切换版本
 du -h ./ | sort -n -r | head -n 10 看文件大小 
-du -hs 查看但前文件夹大小
+du -hs 查看但前文件夹大小 
+du -lh --max-depth=1 查看深度为1的文件和文件夹大小 
 	
 
 ### Windows
