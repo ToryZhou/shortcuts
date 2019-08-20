@@ -82,7 +82,9 @@ shift + [ ] 向上/下一个空白行移动
 :m,ns/字符串//ng  统计指定行出现字符串次数  
 du -sh * 查看当前目录文件和文件夹大小，为了解决/dev/sda2满了的问题    
 python3 MainMigration.py >> prod_test_big_table.log 2>&1 & 运行python记录日志，标准输出和错误都记录到log文件,并且后台运行   
-jobs -l 查看正在运行的后台程序
+jobs -l 查看正在运行的后台程序    
+sudu su  切换到root用户    
+yum install tmux   
 
 ### Idea
 -----------
