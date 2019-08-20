@@ -81,6 +81,7 @@ shift + [ ] 向上/下一个空白行移动
 :%s/字符串//ng 统计字符串出现次数  
 :m,ns/字符串//ng  统计指定行出现字符串次数  
 du -sh * 查看当前目录文件和文件夹大小，为了解决/dev/sda2满了的问题    
+python3 MainMigration.py >> prod_test_big_table.log 2>&1 运行python记录日志
 
 ### Idea
 -----------
