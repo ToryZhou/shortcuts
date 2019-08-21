@@ -154,6 +154,7 @@ alt+f7 updated to alt+m move window
 /etc/sudoers to let user get the root role  
 system+shift+number 另起程序标签  
 find <directory> -type f -name "*.c" | xargs grep "<strings>"  linux 多个文件中查找字符串  
+find ./ -type f -name "*.xml" | xargs grep "liquibase"    
 sudo updatedb 更新linux索引数据库  
 locate test.txt 快速查找文件  
 file -i companies_test_code.csv 查看文件字符编码  
