@@ -85,6 +85,7 @@ python3 MainMigration.py >> prod_test_big_table.log 2>&1 & 运行python记录日
 jobs -l 查看正在运行的后台程序    
 sudu su  切换到root用户    
 yum install tmux   
+emmet    
 
 ### Idea
 -----------
