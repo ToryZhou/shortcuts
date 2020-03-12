@@ -174,8 +174,10 @@ update-alternatives --config python  切换版本
 du -h ./ | sort -n -r | head -n 10 看文件大小  
 du -hs 查看但前文件夹大小  
 du -lh --max-depth=1 查看深度为1的文件和文件夹大小  
-nohup python3 -u migration.py > prod.log 2>&1 &  后台运行脚本，断开远程链接可以继续运行
-	
+nohup python3 -u migration.py > prod.log 2>&1 &  后台运行脚本，断开远程链接可以继续运行  
+ssh-keygen -t rsa -C "zhoutong@patsnap.com" 生成ssh key pair  
+mv ~/.ssh/known_hosts ~/.ssh/known_hosts_bak  把hosts冲突删除  
+
 
 ### Windows
 -----------
