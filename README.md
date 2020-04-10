@@ -86,6 +86,10 @@ jobs -l 查看正在运行的后台程序
 sudu su  切换到root用户    
 yum install tmux   
 emmet    
+:reg  查看寄存器
+"+y  复制到系统剪切板   
+"+p  粘贴系统剪切板   
+ctrl+R 寄存器标识， 输入模式下这个命令， 粘贴寄存器内容
 
 ### Idea
 -----------
