@@ -25,6 +25,7 @@ Practice the vim is really helpful
 * [Maven](#maven)
 * [Docker](#docker)
 * [Js](#Js)
+* [Git](#Git)
 
 ### vim
 -----------
@@ -264,6 +265,12 @@ console.log(document.getElementById("password").value) 获取网页密码
 new Date(1557575716243)获取时间戳转换  
 new Date().getTime()获取当前Unix时间戳  
 decodeURI('%5D%2F')有的解码不了 
+
+### Git
+----------
+git tag -d tag-name  删除本地tag  
+git push origin :refs/tags/tag-name  删除远程tag    
+
 
 注意Markdown 锚点里面必须是小写
 ---------------------
