@@ -126,7 +126,8 @@ ctrl+alt+\[ \]  左右切换打开的项目
 
 ### VSCode
 -----------
-
+ctrl + p  搜索文件  
+ctrl + shift + p 功能列表  
 
 
 ### Ubuntu
