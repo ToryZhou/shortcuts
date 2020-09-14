@@ -270,7 +270,11 @@ decodeURI('%5D%2F')有的解码不了
 ### Git
 ----------
 git tag -d tag-name  删除本地tag  
-git push origin :refs/tags/tag-name  删除远程tag    
+git push origin :refs/tags/tag-name  删除远程tag  
+git branch -m master old-master   
+git branch -m develop-rds-bak master   
+git push -f origin master  
+
 
 
 注意Markdown 锚点里面必须是小写
