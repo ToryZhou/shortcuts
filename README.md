@@ -190,6 +190,8 @@ nohup python3 -u migration.py > prod.log 2>&1 &  后台运行脚本，断开远�
 ssh-keygen -t rsa -C "zhoutong@patsnap.com" 生成ssh key pair  
 mv ~/.ssh/known_hosts ~/.ssh/known_hosts_bak  把hosts冲突删除  
 wc -l filename 就是查看文件里有多少行   
+ctrl + l  terminal里面新的一屏   
+less j 向下， k 向上
 
 
 ### Windows
