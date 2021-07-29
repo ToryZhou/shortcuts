@@ -278,7 +278,7 @@ git branch -m master old-master
 git branch -m develop-rds-bak master   
 git push -f origin master  
 
-
+git fetch -a origin-tong 获取远程仓库的所有分支
 
 注意Markdown 锚点里面必须是小写
 ---------------------
