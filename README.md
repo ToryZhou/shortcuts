@@ -271,7 +271,9 @@ new Date().getTime()获取当前Unix时间戳
 decodeURI('%5D%2F')有的解码不了 
 
 ### Git
-----------
+----------    
+git tag tag-20210812    
+git push origin tag-20210812    
 git tag -d tag-name  删除本地tag  
 git push origin :refs/tags/tag-name  删除远程tag  
 git branch -m master old-master   
