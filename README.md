@@ -283,6 +283,8 @@ git push -f origin master
 git fetch -a origin-tong 获取远程仓库的所有分支  
 	
 git checkout -b develop origin/develop  git checkout -b {本地分支} {远程分支}   
+	
+git branch <new-branch-name> <tag-name>  从branch拉分支 
 
 注意Markdown 锚点里面必须是小写
 ---------------------
