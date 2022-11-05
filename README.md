@@ -210,6 +210,9 @@ calc 计算器
 ctrl+system+ ↑  最大化窗口  
 ctrl+system+ ↓  缩小窗口  
  
+ 
+ ### centos
+ cat /etc/redhat-release 查看centos版本。 
 
 ### Chrome
 -----------
