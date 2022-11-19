@@ -272,6 +272,7 @@ console.log(document.getElementById("password").value) 获取网页密码
 new Date(1557575716243)获取时间戳转换  
 new Date().getTime()获取当前Unix时间戳  
 decodeURI('%5D%2F')有的解码不了 
+parseInt("A", 16 16进制转10进制，RGB颜色转换时可以使用
 
 ### Git
 ----------    
