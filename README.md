@@ -213,6 +213,9 @@ ctrl+system+ ↓  缩小窗口
  
  ### centos
  cat /etc/redhat-release 查看centos版本。 
+ 
+ ### mac
+ tar -zxvf abc.jar   解压jar包  
 
 ### Chrome
 -----------
