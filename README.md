@@ -298,3 +298,7 @@ git branch newbranch v1.0
 ---------------------
 
 本文来自 ToryChow 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/changningbuddha/article/details/76167929?utm_source=copy 
+
+
+### Network
+curl -v cip.cc ; curl -v http://httpbin.org/ip   查看出口ip
