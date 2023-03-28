@@ -14,6 +14,7 @@ Practice the vim is really helpful
 
 ****
 ## 目录
+* [copilot](#copilot)
 * [vim](#vim)
 * [Idea](#idea)
 * [VSCode](#vscode)
@@ -26,6 +27,15 @@ Practice the vim is really helpful
 * [Docker](#docker)
 * [Js](#Js)
 * [Git](#Git)
+
+### copilot
+允许当前的建议: Tab.  
+取消当前的建议: Esc.  
+显示下一个建议: Alt + ] or Option + ].  
+显示上一个建议： Alt + [ or Option + [.  
+展示建议： Alt + \ or Option + \.   
+打开Copliot面板 (拥有10条建议供选择): Alt + Enter or Option + Enter 然后选择 "Open Copilot".    
+
 
 ### vim
 -----------
