@@ -132,7 +132,8 @@ alt+shift+b Builder Generator(This is a plugin)
 alt+insert 在选中某包是按这个建，创建包和创建类快捷键  
 alt+ ←→ 切换工作区文件  
 alt+w 打开windows 可以选择项目  
-ctrl+alt+\[ \]  左右切换打开的项目 
+ctrl+alt+\[ \]  左右切换打开的项目  
+Shift + Command + U  大小写转换
 
 ### VSCode
 -----------
