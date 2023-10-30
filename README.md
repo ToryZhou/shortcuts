@@ -313,4 +313,5 @@ git rebase -i HEAD~2  把顶上的两次提交合并， 把第二个pick改为f
 
 
 ### Network
-curl -v cip.cc ; curl -v http://httpbin.org/ip   查看出口ip
+curl -v cip.cc ; curl -v http://httpbin.org/ip   查看出口ip  
+python3 -m http.server 9090 起http文件夹服务。  
