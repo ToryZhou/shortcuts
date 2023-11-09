@@ -306,6 +306,7 @@ git branch &lt;new-branch-name&gt; &lt;tag-name&gt;  从tag拉分支
 git branch newbranch v1.0    
 git rebase -i HEAD~2  把顶上的两次提交合并， 把第二个pick改为f    
 git rebase -i master-20231109    基于某个从master新建的分支rebase    
+git commit --amend -m "TOC-57776 - Upgrade jdk17"   修改commit message
  
 注意Markdown 锚点里面必须是小写
 ---------------------
